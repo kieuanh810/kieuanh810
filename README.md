@@ -1,6 +1,7 @@
 # Hi there, I'm [Trần Kiều Anh] 👋
 
 ## 📊 Về tôi (Data Analyst Enthusiast)
+- - 🎓**Giáo dục:** Student at **[Hanoi School of Business]** ```
 - 🔭 **Dự án đang thực hiện:** Phân tích hành vi khách hàng trong lĩnh vực Thương mại điện tử.
 - 🌱 **Đang học tập:** SQL nâng cao (Window Functions, CTEs) và kỹ thuật Storytelling với dữ liệu trên Power BI.
 - 🎯 **Mục tiêu nghề nghiệp:** Trở thành một Chuyên viên Phân tích Dữ liệu thực thụ, giúp doanh nghiệp tối ưu hóa nguồn lực thông qua Insight từ dữ liệu.
